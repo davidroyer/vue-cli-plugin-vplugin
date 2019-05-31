@@ -1,10 +1,12 @@
-# :electric_plug: vue-cli-plugin-p11n
+# :electric_plug: vue-cli-plugin-vp
 
-[![CircleCI](https://circleci.com/gh/davidroyer/vue-cli-plugin-p11n.svg?style=svg)](https://circleci.com/gh/davidroyer/vue-cli-plugin-p11n)
+
+
+[![CircleCI](https://circleci.com/gh/davidroyer/vue-cli-plugin-vp.svg?style=svg)](https://circleci.com/gh/davidroyer/vue-cli-plugin-vp)
 
 Vue CLI 3 plugin to pluginize your Vue project
 
-> p11n = pluginization
+> vp = pluginization
 
 <a href="https://www.patreon.com/davidroyer" target="_blank">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patreon">
@@ -34,7 +36,7 @@ Install the plugin into your project:
 
 ```sh
 cd vue-your-plugin
-vue add p11n
+vue add vp
 ```
 
 ## :package: Build Customizing
@@ -56,21 +58,21 @@ example the below:
 
 ## :scroll: Changelog
 
-Detailed changes for each release are documented in the [CHANGELOG.md](https://github.com/davidroyer/vue-cli-plugin-p11n/blob/master/CHANGELOG.md).
+Detailed changes for each release are documented in the [CHANGELOG.md](https://github.com/davidroyer/vue-cli-plugin-vp/blob/master/CHANGELOG.md).
 
 
 ## :exclamation: Issues
 
-Please make sure to read the [Issue Reporting Checklist](https://github.com/davidroyer/vue-cli-plugin-p11n/blob/master/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Checklist](https://github.com/davidroyer/vue-cli-plugin-vp/blob/master/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 
 ## :muscle: Contribution
 
-Please make sure to read the [Contributing Guide](https://github.com/davidroyer/vue-cli-plugin-p11n/blob/master/CONTRIBUTING.md) before making a pull request.
+Please make sure to read the [Contributing Guide](https://github.com/davidroyer/vue-cli-plugin-vp/blob/master/CONTRIBUTING.md) before making a pull request.
 
 
 ## :white_check_mark: TODO
-See the [GitHub projects](https://github.com/davidroyer/vue-cli-plugin-p11n/projects/1)
+See the [GitHub projects](https://github.com/davidroyer/vue-cli-plugin-vp/projects/1)
 
 
 ## :copyright: License
