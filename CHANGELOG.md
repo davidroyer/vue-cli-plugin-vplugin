@@ -4,7 +4,7 @@
 
 ### :zap: Improvements
 
-* **build:** add more rollup features ([990f7a0](https://github.com/davidroyer/vue-cli-plugin-vp/commit/990f7a0))
+* **build:** add more rollup features ([990f7a0](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/990f7a0))
 
 
 
@@ -13,4 +13,4 @@
 
 ### :zap: Improvements
 
-* **build:** add more rollup features ([990f7a0](https://github.com/davidroyer/vue-cli-plugin-vp/commit/990f7a0))
+* **build:** add more rollup features ([990f7a0](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/990f7a0))

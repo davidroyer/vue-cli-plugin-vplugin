@@ -1,8 +1,8 @@
-# :electric_plug: vue-cli-plugin-vp
+# :electric_plug: vue-cli-plugin-vplugin
 
 
 
-[![CircleCI](https://circleci.com/gh/davidroyer/vue-cli-plugin-vp.svg?style=svg)](https://circleci.com/gh/davidroyer/vue-cli-plugin-vp)
+[![CircleCI](https://circleci.com/gh/davidroyer/vue-cli-plugin-vplugin.svg?style=svg)](https://circleci.com/gh/davidroyer/vue-cli-plugin-vplugin)
 
 Vue CLI 3 plugin to pluginize your Vue project
 
@@ -58,21 +58,21 @@ example the below:
 
 ## :scroll: Changelog
 
-Detailed changes for each release are documented in the [CHANGELOG.md](https://github.com/davidroyer/vue-cli-plugin-vp/blob/master/CHANGELOG.md).
+Detailed changes for each release are documented in the [CHANGELOG.md](https://github.com/davidroyer/vue-cli-plugin-vplugin/blob/master/CHANGELOG.md).
 
 
 ## :exclamation: Issues
 
-Please make sure to read the [Issue Reporting Checklist](https://github.com/davidroyer/vue-cli-plugin-vp/blob/master/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Checklist](https://github.com/davidroyer/vue-cli-plugin-vplugin/blob/master/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 
 ## :muscle: Contribution
 
-Please make sure to read the [Contributing Guide](https://github.com/davidroyer/vue-cli-plugin-vp/blob/master/CONTRIBUTING.md) before making a pull request.
+Please make sure to read the [Contributing Guide](https://github.com/davidroyer/vue-cli-plugin-vplugin/blob/master/CONTRIBUTING.md) before making a pull request.
 
 
 ## :white_check_mark: TODO
-See the [GitHub projects](https://github.com/davidroyer/vue-cli-plugin-vp/projects/1)
+See the [GitHub projects](https://github.com/davidroyer/vue-cli-plugin-vplugin/projects/1)
 
 
 ## :copyright: License
