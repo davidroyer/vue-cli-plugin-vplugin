@@ -1,7 +1,7 @@
 {
   "name": "vue-cli-plugin-vplugin",
   "description": "Vue CLI 3 plugin to pluginize your Vue project based off p11n",
-  "version": "0.1.0-next.1",
+  "version": "0.1.0-next.2",
   "author": {
     "name": "David Royer",
     "email": "droyer01@gmail.com"
@@ -67,7 +67,7 @@
     "test:unit": "jest ./tests/unit/**/*.spec.js",
     "test:e2e": "jest ./tests/e2e/*.spec.js",
     "release": "standard-version",
-    "release:next": "standard-version --prerelease next"
+    "release:next": "standard-version --prerelease next && npm publish --tag next"
   },
   "standard-version": {
     "scripts": {
