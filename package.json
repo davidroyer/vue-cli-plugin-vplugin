@@ -41,7 +41,8 @@
     "git-commit-message-convention": "git://github.com/kazupon/git-commit-message-convention.git",
     "jest": "^23.6.0",
     "memfs": "^2.14.2",
-    "prettier": "^1.17.1"
+    "prettier": "^1.17.1",
+    "standard-version": "^6.0.1"
   },
   "homepage": "https://github.com/kazupon/vue-cli-plugin-vplugin#readme",
   "jest": {
@@ -59,13 +60,19 @@
     "url": "git+https://github.com/davidroyer/vue-cli-plugin-vplugin.git"
   },
   "scripts": {
-    "changelog": "conventional-changelog -i CHANGELOG.md -s -n ./node_modules/git-commit-message-convention/convention.js",
     "clean": "rimraf coverage tests/e2e/projects/*",
     "lint": "eslint --fix --ext .js .",
     "lint:ci": "eslint --ext .js .",
-    "release": "conventional-github-releaser -n ./node_modules/git-commit-message-convention/convention.js",
     "test": "npm run test:unit",
     "test:unit": "jest ./tests/unit/**/*.spec.js",
-    "test:e2e": "jest ./tests/e2e/*.spec.js"
-  }
+    "test:e2e": "jest ./tests/e2e/*.spec.js",
+    "release": "standard-version",
+    "release:next": "standard-version --prerelease next"
+  },
+
+  "standard-version": {
+    "scripts": {
+      "posttag": "git push --follow-tags"
+    }
+  }  
 }
