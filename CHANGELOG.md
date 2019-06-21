@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0-next.3](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.0-next.2...v0.1.0-next.3) (2019-06-21)
+
+
+### Bug Fixes
+
+* removes unworking publish command ([3d3fbaf](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/3d3fbaf))
+* **css:** fixes builds to include/exclude `CSS` ([5b05ee3](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/5b05ee3))
+
+
+
 ## [0.1.0-next.2](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.0-next.1...v0.1.0-next.2) (2019-06-21)
 
 
