@@ -22,7 +22,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* :lighting: adds logic for options in config ([111a7f9](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/111a7f9))
+* :zap: adds logic for options in config ([111a7f9](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/111a7f9))
 
 
 ### refactor
