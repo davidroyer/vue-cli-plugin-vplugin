@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.3...v0.1.4) (2019-06-23)
+
+
+### Bug Fixes
+
+* **modular:** sets correct output path for JS ([c0d6fd8](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/c0d6fd8))
+
+
+
 ### [0.1.3](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.2...v0.1.3) (2019-06-23)
 
 
