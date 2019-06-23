@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.0-next.3...v0.1.0) (2019-06-23)
+
+
+### Bug Fixes
+
+* **modular:** fixes CSS output on build ([d80adb9](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/d80adb9))
+
+
+### Tests
+
+* updates and fixes test ([9aa3087](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/9aa3087))
+
+
+
 ## [0.1.0-next.3](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.0-next.2...v0.1.0-next.3) (2019-06-21)
 
 
