@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.1...v0.1.2) (2019-06-23)
+
+
+### Bug Fixes
+
+* removes unused `js` directory ([444b6f6](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/444b6f6))
+
+
+### Build System
+
+* adds `npm publish` to release scripts ([be0f724](https://github.com/davidroyer/vue-cli-plugin-vplugin/commit/be0f724))
+
+
+
 ### [0.1.1](https://github.com/davidroyer/vue-cli-plugin-vplugin/compare/v0.1.0...v0.1.1) (2019-06-23)
 
 

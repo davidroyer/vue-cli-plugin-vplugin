@@ -1,7 +1,7 @@
 {
   "name": "vue-cli-plugin-vplugin",
   "description": "Vue CLI 3 plugin to pluginize your Vue project based off p11n",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "David Royer",
     "email": "droyer01@gmail.com"
