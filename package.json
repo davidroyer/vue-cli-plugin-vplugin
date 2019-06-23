@@ -66,8 +66,8 @@
     "test": "npm run test:unit",
     "test:unit": "jest ./tests/unit/**/*.spec.js",
     "test:e2e": "jest ./tests/e2e/*.spec.js",
-    "release": "standard-version",
-    "release:next": "standard-version --prerelease next"
+    "release": "standard-version && npm publish",
+    "release:next": "standard-version --prerelease next && npm publish --tag next"
   },
   "standard-version": {
     "scripts": {
